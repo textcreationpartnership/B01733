@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honorable the Lords and Commons assembled in Parliament</title>
+            <author>Bower, Richard, fl. 1662</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01733</idno>
+            <idno type="STC">Wing B3869B</idno>
+            <idno type="STC">ESTC R173023</idno>
+            <idno type="EEBO-CITATION">51784405</idno>
+            <idno type="OCLC">ocm 51784405</idno>
+            <idno type="VID">174827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174827)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2701:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honorable the Lords and Commons assembled in Parliament</title>
+                  <author>Bower, Richard, fl. 1662</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with some loss of text.</note>
+                  <note>Signed at end: Richard Bower.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  England --  17th century.</term>
+               <term>Usages of trade --  England --  17th century.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174827:1"/>
+            <head>To the Right Honorable the Lords and Commons Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>RIGHT HONORABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Oming to <hi>London</hi> in <hi>Auguſt</hi> laſt, I met with a Proclamation, wherein His Ma<g ref="char:EOLhyphen"/>jeſty complained of the Injuries he received in his Cuſtoms, and not without juſt cauſe, the which I being ſenſible of, did (as in duty bound) put forth a printed Sheet directed to his Majeſty, ſhewing the reaſons wherefore the Cu<g ref="char:EOLhyphen"/>ſtoms were not ſo well anſwered and paid as they ought to be; and that theſe evils might be remedied, I ſent one of the Sheets unto the Commiſſioners for the Cuſtoms, the which had they put in practice, it had ſaved his Majeſty <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ny thouſands, for want of which he hath deeply ſuffered; the Work is ſo neceſſary, that it i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impoſſible without it to improve the Cuſtoms, Although in the late times there were many <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrors in the Cuſtoms which proved very deſtructive to the Receit, by which (I am confident) <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e third of it was then loſt, which the Bill your Honours have paſt, falls ſhort to prevent, it <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing rather to recover what may be loſt, then to prevent the looſing of it; yet the Cuſtoms <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re then better improved, and the Receit far greater than now; and yet there was not in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeven years before, ſuch a year for the improvement of the Cuſtoms as the laſt year was; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo, the Receit in reaſon ſhould have been greater than formerly; and without doubt it <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld, had it been as well managed: For their power (I conceive) is now no leſs than theirs formerly, neither do theſe want any material Laws the others had. But give me leave (by com<g ref="char:EOLhyphen"/>paring the management of theſe affairs formerly, and at preſent) to ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w your Honors from whence the ruine of the Cuſtoms chiefly proceeds.</p>
+            <p n="1">1. <hi>Formerly all Officers were in bonds, bound in good Sums, with good Sureties, for the faithful diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arge of their duty, which did greatly deter them from the breach of that Truſt impoſed on them.</hi>
+            </p>
+            <p>Now they are without Bonds, Security, or Oath given for the faithful diſcharge of their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty; which liberty doth greatly encourage them to act their will and pleaſure towards the Revenue's ruine, for their own benefit.</p>
+            <p n="2">2. <hi>Formerly all Officers were allowed a competency, which cauſed them to prize and value their Em<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>yments, and it did encourage them to all faithfulneſs.</hi>
+            </p>
+            <p>Now their Salleries are reduced ſo low, they cannot live upon it; for he which formerly <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 100. <hi>l per an.</hi> is now reduced to 40.<hi>l</hi> and he which formerly had 40. <hi>l per an.</hi> is now redu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to 25. <hi>l</hi> So that firſt, They give them an opportunity, in leaving them at liberty without <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s. Secondly, If they will not make uſe of this opportunity, they do enforce them to it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meer neceſſity; ſo that if the ſaying be true, <hi>That Neceſſity and Opportunity will make a T<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>f,</hi> it is impoſſible the Officers ſhould be honeſt.</p>
+            <p n="3">3. <hi>Formerly they were very careful to enquire into the Parts and Abilities of thoſe perſons they em<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>d; and when approved, they were very tender of parting with them, except diſ-affected) not grant<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that to accuſe, ſhould be ſufficient to condemn; they knowing, that he which is moſt faithful, able <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctive, gives the moſt offence; therefore if to Accuſe ſhould be ſufficient to Condemn, who would <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuffer, but thoſe which they had moſt reaſon to vindicate. This aſſura<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce they then had of their Pla<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> made their Lives comfortable, and did greatly encourage them to all faithfulneſs and diligence.</hi>
+            </p>
+            <p>Now Places are beſtowed by favour, without regard had to the perſons Parts and Abilities <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing the Place or no; inſomuch that it is a queſtion which way his Majeſty moſt ſuffers, whe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> by Ignorance or Kna<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> let an Officer be never ſo able and faithful, their Employ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> are ſo fickle and uncertain, that let a ſlanderous Accuſation be brought againſt them, if <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> but back't by the Commiſſioners Relations or Favourites, of which the Cuſtoms ſwarm <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e beſt places; for theſe but to accuſe, it is ſufficient to condemn, without permitting the a<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſed liberty to make his defence, and for what reaſons, is beſt known to themſelves. Let <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> accuſation be brought againſt any whom they favour, they ſhall be ſupported againſt all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppoſition, although to the prejudice of the Kingdom, endangering the peace thereof; ſo th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this ſlaviſh condition they are in, by reaſon of the uncertain enjoyment of their Places, c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſeth them to provide for the future, and <hi>make Hey while the Sunſhines.</hi>
+            </p>
+            <p n="4">4. <hi>All Maſters of Ships had one</hi> per cent <hi>allowed for Portage, for which the Tydeſmen, who had the whole charge of the Receit aboard, and could not ſtir without prejudice to it, could have comman<g ref="char:EOLhyphen"/>ded things neceſſary and convenient, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Dyet, or the like, without any Engagement to lye upon him f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t he received.</hi>
+            </p>
+            <p>Now the Maſters have allowed them for their Portage, but a fourth part of what they for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly had, which is ſo inconſiderable, and the trouble many times great in getting of it, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y often go without it; ſo that this puts an inconveniency upon the Tydeſman, that he is (as <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>) enforc't to comply with the Maſter, to do him ſome favour for what he receives; ſo <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the Commiſſioners ſave at the Spigget, whilſt the Tydeſman lets it out at the Bung.</p>
+            <p>Theſe e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l practices alone hath been the chief cauſe of the great confuſion and loſs that is, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Cuſtoms: Therefore I humbly conceive, that if your Honours had gone firſt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ting the Officers, and have let the Bill alone as yet, it would have <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>geous to h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Majeſty; for your Honours intending this Work, and de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>cker and greater ſpoile of his Majeſty's Revenue, then otherwiſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Officers underſtanding that inquiry will be made into their Parts <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they enjoy (of which there was never more need) and that their <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very one ſuſpecting the worſt, without doubt provides for the future<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have alre<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> enſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d hereby, I doubt not but wil ſufficiently appear <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but the Receit of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laſt Quarter, with the ſame Quarter in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out this Work the Bil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the beſt can be but of little or no uſe; for, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the executing of it, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n who muſt execute the Laws but the Offi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> at liberty, and ſhall throug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſcouragement and neceſſities put up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> corrupt; theſe without dou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inſtead of executing the Laws to pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, muſt be enforc't to lay hold o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all opportunities, and break every <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>vantage.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> onely perſons that are by theſe pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctices diſcouraged and neceſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſole truſt of the Income of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Majeſty's Revenue lieth, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>and-Waiters and Tydeſmen; theſe a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the onely Conduits and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ceit in from the Ports mouth into the Cuſtom-Houſe door: For <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſel entreth any Port, but a Tydeſman b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards her; under whoſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lieth night &amp; day until delivered; and what <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath faithfully pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> delivered by the Land-Waiter, according t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the true quantity <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cuſtoms are paid. So that in theſe two hand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lieth the whole <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Officers in the Cuſtom-houſe, from the higheſt to the loweſt, are not of half the concernment of theſe: For let but the Coaſt be ſecured to convey the Receit into the Ports under theſe men's charge, all the Improvement that can be made, theſe may do: The Commiſſioners, nor any other (as theſe may be managed) can prejudice the Receit one penny, but theſe may give an account thereof; and on the contrary, theſe can enrich themſelves to the great prejudice of the Receit, and not be prevented; and yet all the opportunities theſe have, may be taken away in two things, which the Bill will no ways prevent. Theſe are the Ground-work and Foundation where<g ref="char:EOLhyphen"/>upon your Honours muſt build the improvement of the Cuſtoms; therefore that your Foundation may be good, and that your Building may ſtand ſure, cheriſh theſe two Per<g ref="char:EOLhyphen"/>ſons, giving them all due encouragement, preventing their neceſſities, and to have an aſ<g ref="char:EOLhyphen"/>ſurance of the continuance of their Places, and not to lie at the Will and Pleaſure of the Commiſſioners, to be turned out of their Employments, which will prove very deſtru<g ref="char:EOLhyphen"/>ctive to the Receit; for the perſons that are moſt likely to ſuffer hereby, are thoſe which are moſt faithful and beſt deſerving; and my reaſons are theſe: Firſt, He which is moſt faithful, able and active, gives the moſt offence both to Merchant and Officers; ſo that he ſhall not want an ill report in preventing the Merchant's fraudulent practices; and from the Officers, in clouding them with his extraordinary Services, then for to grant, That to accuſe ſhould be ſufficient to condemn, which hath been too much practiſed by them, is the onely way to part from their beſt Officers; and not to hear complaints, would en<g ref="char:EOLhyphen"/>courage the Officers to fraudulent practices, and to hear all complaints legally, both what the Accuſer, and the Accuſed had to ſay, they had no need of other Work. Beſides, the Commiſſioners have not a few of their Relations and Friends in the Cuſtom-Houſe, who have the ſame infirmities that others have; if ſo, what Officers dare complaine of the Frauds they ſhall commit, when their Fathers, Uncles or Friends ſhal be judge in the caſe, and the Officer that informs, at their will and pleaſure to be turned out; ſo that Friends and Favourites may prejudice the Receit without controul, it being dangerous for others to complain thereof. To remedy this Evil, and to take the Officers from under this ſla<g ref="char:EOLhyphen"/>very, that their lives may be comfortable, if faithful, and if corrupt, that they may be ſeverely puniſhed; This I propoſe,</p>
+            <p>That after they are bound in ſuch Summs as your Honors ſhall think fitting for the faithful diſcharge of their Truſt, ſuch Bonds to be forfeited upon the breach of their Truſt; and whoever ſhall inform and ſue the ſame, the one moyety to be paid to the King, the other to him that ſhall ſue for and recover the ſame, as alſo the Imployment if he be capable thereof; All ſuch informations firſt to be given into the Commiſſioners, with the Informers name, and place of abode; and leaſt the Officer, knowing of the Informer ſhould ſtop his proceedings by bribing him, or otherwiſe, that then the information be given to the Officer, who ſhall no further be imployed, until he hath made his innocencie appear by proſecuting the Informer, recovering from him ſuch ſum or ſums of money, if able, or ſuffer ſuch puniſhment as your Honors ſhall provide in an Act to this purpoſe; the one moyety of ſuch ſums to be paid unto the King, the other to the Officer, upon this to be reſtored his place; this will ſtop many idle clamors; in this the Commiſſioners fa<g ref="char:EOLhyphen"/>vourites ſhall ſuffer as well as others; this will be done without partiality; this will be a great means to preſerve men faithful, and faithful men in their places, and not fearful to tell the beſt of their faults that ſhall go about to prejudice his Majeſties Revenue, which they cannot do while they are lyable to be diſpoſed of at the Commiſſioners will and pleaſures.</p>
+            <p>Beſides, to leave the Officers at the wil and pleaſure of the Commiſſioners, may be the giving away of that vaſt improvement of the Cuſtoms that may be made thereof unto thoſe whom it was never intended for; and were the Bill your Honors have paſt, ſo per<g ref="char:EOLhyphen"/>fect as it might have been, yet it may be compared to a Lock, which is of little or no uſe without the Key; for this is that which (with the help of the hand) puts the Bolt back<g ref="char:EOLhyphen"/>ward or forward, as occaſion ſhall ſerve. The Law is the Lock, the Officers the Key, the Commiſſioners the Hand, which by encouragements, and well regulating, the Officers turn them to the improvement of the Cuſtoms, or (by diſcouragements given) to the ru<g ref="char:EOLhyphen"/>ine of it; that there may be a vaſt Improvement made of the Cuſtoms, every man (al<g ref="char:EOLhyphen"/>moſt) is ſenſible of; inſomuch that there is (without doubt) many that would farm it; and if the Commiſſioners are this way minded, (which I ſhall not queſtion) what an op<g ref="char:EOLhyphen"/>portunity they have to gain their ends, is eaſily judged, they having the Key of the work in their hands, to turn which way they pleaſe, So that it will be at their choice, whether the Cuſtoms ſhall be improved or no, until they have (as it were) inforc't it into their own hands.</p>
+            <p>This is the third ſheet I have preſented to your Honors to this purpoſe; for the good of which, I have waited here in Town theſe ſix Months, at a great diſtance from my Fa<g ref="char:EOLhyphen"/>mily and Occaſions, at no ſmall trouble and charge; inſomuch that I have been made ridiculous for my well-wiſhes and trouble I have hitherto undergone to promote His Ma<g ref="char:EOLhyphen"/>jeſties Intereſt, in which I know I cannot but have created to my ſelf certain Enemies, and uncertain Friends; therefore being a ſtranger here in Town, and alone in this Work, having none to aſſiſt me herein, without your Honors favourable aſſiſtance, I ſhall be made uncapable to be inſtrumental in this Work; and if your Honors did rightly underſtand how difficult it is to be rightly informed how theſe affairs might be improved to the beſt advantage for His Majeſty, there being but few that underſtand it, and of thoſe that do, few but are benefited by the ſpoyl of it; I conceive then, that thoſe whoſe experience hath taught them knowledge in theſe Affairs, not onely for the Cuſtoms, as Officers, but alſo againſt it in the ſervice of the Merchant, ſuch ſhould not be found to ruine their own In<g ref="char:EOLhyphen"/>tereſt in waiting to promote His Majeſty's, nay, I may ſay, your Honors, and the Publick's; for as your Honors have ſetled this upon His Majeſty, as part of his Revenue, if you take not great care in the ſecuring of it for him, but that it be imbezeled, it is your Honours muſt ſupply his neceſsities; and ſo the loſs prove your Honors and the Publicks, which is ſo conſiderable, that were I in a capacity to farm it, and His Majeſty willing to let it, I would give a hundred thouſand pounds <hi>per an.</hi> more than hath been made of it, and would not doubt to get as much more by it. For the prevention of this loſs His Majeſty at preſent ſuffers, I have ſeveral Propoſals to offer, not inſerted in the Bil your Honors have paſt, and for want of Friends or Confidence to importune them, I make it my humble requeſt, That ſome one or other of your Honors would be pleaſed to move for me, that I might improve my Talent not onely for His Majeſty, but your Honours, and the publick good, for which he ſhall ever pray for your Honors, that is</p>
+            <closer>
+               <signed>Your Honors moſt humble, faithful and obedient Servant, <hi>RICHARD BOWER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
